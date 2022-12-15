@@ -160,6 +160,7 @@ a{
 }
 .col-16 {
 	flex-basis: calc(100% / 6);
+    padding-right: 5px;
 }
 
 .col-33 {
@@ -210,6 +211,7 @@ a{
 }
 .padbot{
     padding-bottom: 6px;
+    
 }
  .footer{
     justify-content: space-between;
