@@ -111,10 +111,10 @@ a{
 .font{
     font-size: 14px;
     padding-top: 15px;
+    text-align: center;
+
 }
-.title{
-    
-}
+
 .col-40 {
 	flex-basis: 40%;
 }
@@ -130,4 +130,13 @@ a{
 }
 .grey{
     align-items: center;
+}
+.padding{
+    padding-top: 30px;
+}
+.col-100 {
+	flex-basis: 100%;
+}
+.title1{
+    text-align: center;
 }
