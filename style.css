@@ -211,3 +211,21 @@ a{
 .padbot{
     padding-bottom: 6px;
 }
+ .footer{
+    justify-content: space-between;
+}
+.registrazione{
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 6px solid #7289da;
+    background-color: #7289da;
+    text-align: center;
+    padding-right: 5px;
+    font-size: 14px;
+    color: white;
+    font-size: 12px;
+}
+.linea{
+    border-top:1px solid #7188da;
+    padding-top: 8px;
+}
