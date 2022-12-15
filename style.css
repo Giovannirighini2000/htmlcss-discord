@@ -145,6 +145,7 @@ a{
     text-align: center;
     padding-right: 5px;
     font-size: 14px;
+    color: white;
     
 }
 .avventura{
@@ -161,6 +162,10 @@ a{
 }
 .stelle{
     background-image: url(./stars.svg);
+    background-repeat:repeat-x;
+    background-position: 10px;
+   
+   
    
 }
 
