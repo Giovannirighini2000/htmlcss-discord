@@ -111,7 +111,7 @@ a{
 .font{
     font-size: 14px;
     padding-top: 15px;
-    text-align: center;
+    
 
 }
 
@@ -127,9 +127,6 @@ a{
 }
 .row-reverse {
 	flex-direction: row-reverse;
-}
-.grey{
-    align-items: center;
 }
 .padding{
     padding-top: 30px;
