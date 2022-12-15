@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+ul,
+ol,
+menu {
+	list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+   
+}
+.container1{
+    max-width: 1200px;
+    padding: 10px 30px;
+    margin: 0 auto;
+    
+}
+.row{
+    display: flex;
+                       
+}
+.justyfy{
+    justify-content: space-between;
+}
+.main-header .row {
+	align-items: center;
+}
+.container-small{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.section{
+    padding: 50px ;
+}
+.t{
+    padding-right: 20px;
+    color: white;
+}
+.logo{
+    width: 100px;
+}
+.accedi{
+     border-radius: 15px;
+    border: 9px solid white;
+    background-color: white;
+    text-align: center;  
+}
+.main-header{
+    background-color: rgb(58, 58, 207);
+}
+/* DEBUG  */
+.container3{/* container 3 debug */
+    background-color: rgb(243, 243, 243);
+    max-width: 1200px;
+    padding: 10px 30px;
+    height: 150px;   
+}
+
+.col2{/* COL2 DEBUG */
+    background-color: blueviolet;
+    height: 100px;
+}
+
+.row2{/* DEBUG RAW2 */
+   background-color: blue;  
+}
+
+.container2{/* DEBUG-CONTAINER2*/
+    background-color: blue;
+}
+
+
+.col .Logo{/*DEBUG LOGO*/
+    border: 3px dashed black;      
+}
+
+.debug .container-small{ /* DEBUG START*/
+    border: 3px dashed red;
+    padding: 10px 40px;
+}
+
+.debug .start > * { /* DEBUG START */
+	min-height: 500px;  
+}
+.debug .start{ /* DEBUG START */
+    background: green;
+    
+}
+
