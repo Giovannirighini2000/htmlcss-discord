@@ -129,7 +129,7 @@ a{
 	flex-direction: row-reverse;
 }
 .padding{
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .col-100 {
 	flex-basis: 100%;
@@ -137,3 +137,31 @@ a{
 .title1{
     text-align: center;
 }
+.scarica{
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 6px solid #7289da;
+    background-color: #7289da;
+    text-align: center;
+    padding-right: 5px;
+    font-size: 14px;
+    
+}
+.avventura{
+    align-items: center;
+    padding-left: 170px;
+   
+   
+   
+}
+
+.sposta{
+    padding-left: 90px ;
+    padding-top: 10px;
+}
+.stelle{
+    background-image: url(./stars.svg);
+   
+}
+
+   
