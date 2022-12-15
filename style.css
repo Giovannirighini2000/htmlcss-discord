@@ -213,6 +213,7 @@ a{
 }
  .footer{
     justify-content: space-between;
+    align-items: center;
 }
 .registrazione{
     margin-top: 10px;
