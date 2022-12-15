@@ -85,6 +85,7 @@ a{
     background-color:#ffffff;
     text-align: center;
     padding-right: 5px;
+    font-size: 14px;
 
 }
 .bottoni{
@@ -97,6 +98,22 @@ a{
     background-color:#23272a;
     text-align: center;
     color: #ffffff;
+    font-size: 14px;
+}
+.col-40 {
+	flex-basis: 40%;
+
+}
+
+.col-60 {
+	flex-basis: 60%;
+}
+.font{
+    font-size: 14px;
+    padding-top: 15px;
+}
+.title{
+    
 }
 .col-40 {
 	flex-basis: 40%;
@@ -104,4 +121,13 @@ a{
 
 .col-60 {
 	flex-basis: 60%;
+}
+.grey{
+    background-color:  #d3d3d3;
+}
+.row-reverse {
+	flex-direction: row-reverse;
+}
+.grey{
+    align-items: center;
 }
