@@ -33,15 +33,17 @@ a{
 .container-small{
     max-width: 827px;
     margin: 0 auto;
-    padding: 30px 130px 5px 130px;
-    text-align: center;      
+    padding: 25px 110px 5px 110px;
+    text-align: center;   
+    font-size: 14px;   
 }
 .section{
     padding: 50px ;
 }
 .t{
     padding-right: 20px;
-    color: #ffffff;  
+    color: #ffffff; 
+    font-size: 12px; 
 }
 .logo{
     width: 100px;
@@ -50,7 +52,9 @@ a{
      border-radius: 15px;
     border: 9px solid #ffffff;
     background-color:#ffffff;
-    text-align: center;  
+    text-align: center; 
+    font-size: 12px;
+     
 }
 .main-header{
     background-color: #255ee9;
@@ -66,12 +70,12 @@ a{
     max-width: 827px;
    
 }
-#h1{
+.h11{
     font-size: 35px;
     color:aliceblue;
     padding-bottom: 10px;   
 }
-#p1{
+.p11{
     color: aliceblue;   
 }
 .mac{
@@ -93,4 +97,11 @@ a{
     background-color:#23272a;
     text-align: center;
     color: #ffffff;
+}
+.col-40 {
+	flex-basis: 40%;
+}
+
+.col-60 {
+	flex-basis: 60%;
 }
