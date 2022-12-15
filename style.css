@@ -174,12 +174,14 @@ a{
 }
 .bandiera{
     height: 12px;
-    padding-right: 8px;
-    
+    padding-right: 8px;      
 }
 .size{
     font-size: 12px;
-    color: #ffffff;
+    color: #ffffff;  
+}
+.ita{
+   padding-bottom: 8px;
 }
 .fot{
     padding-bottom: 6px;
